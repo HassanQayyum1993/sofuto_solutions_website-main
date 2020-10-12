@@ -1,0 +1,29 @@
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.fit-image {
+  width: 100%;
+  object-fit: fill;
+  height: 300px; /* only if you want fixed height */
+}
+
+p.small {
+  line-height: 0.7;
+}
+
+p.big {
+  line-height: 1.8;
+}
+
+.full-height {
+  height: 50%;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
